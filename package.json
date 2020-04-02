@@ -1,0 +1,16 @@
+{
+  "name": "thamturakit-ggsheet",
+  "version": "1.0.0",
+  "description": "Thamturakit read-write google sheet data module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "thamturakit-ggsheet"
+  },
+  "author": "Yothin Setthachatanan",
+  "license": "ISC"
+}
